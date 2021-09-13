@@ -1,3 +1,5 @@
 import UIKit
 
-var greeting = "Hello, playground"
+
+var greeting = "Hallo, palyground"
+var message = " Ich bin hier"
